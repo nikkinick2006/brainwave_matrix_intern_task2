@@ -1,0 +1,4 @@
+sentiment,count,mean,min,max
+Negative,24,-0.39120370370370366,-0.7,-0.125
+Neutral,42,0.0,0.0,0.0
+Positive,34,0.3860031512605042,0.03125,1.0
